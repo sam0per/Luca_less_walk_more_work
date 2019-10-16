@@ -23,7 +23,6 @@ Less walking = more working
 - Work
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[LUCA's activities]
 
 @snap[north-west h4-white]
