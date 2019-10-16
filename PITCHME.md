@@ -21,6 +21,7 @@ Less walking = more working
 @ul[list-spaced-bullets text-white text-09]
 - Walk
 - Work
+@ulend
 @snapend
 
 @title[LUCA's activities]
