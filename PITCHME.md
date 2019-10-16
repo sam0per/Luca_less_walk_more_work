@@ -13,18 +13,18 @@ Less walking = more working
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[LUCA is a person]
 
-@snap[west span-50]
-### Luca does ...
+@snap[north-west h4-white]
+#### Luca does ...
 @snapend
 
-@snap[east span-50]
-@ul[list-spaced-bullets text-white text-09]
+@snap[west span-55]
+@ul[list-spaced-bullets text-black text-09]
 - Walk
 - Work
 @ulend
 @snapend
 
-@title[LUCA's activities]
+---
 
 @snap[north-west h4-white]
 #### And start presenting...
