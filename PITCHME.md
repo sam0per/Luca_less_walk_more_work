@@ -1,7 +1,8 @@
 # LUCA in theory
 
-@snap[south span-100 text-white]
+@snap[south span-100 text-black]
 Less walking = more working
+@snapend
 
 ---
 
