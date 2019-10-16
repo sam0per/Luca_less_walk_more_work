@@ -10,10 +10,10 @@ Less walking = more working
 ![IMAGE](assets/img/whoisluca.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+@title[LUCA is a person]
 
 @snap[west span-50]
-## Luca does ...
+### Luca does ...
 @snapend
 
 @snap[east span-50]
@@ -22,12 +22,8 @@ Less walking = more working
 - Work
 @snapend
 
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
-@title[Add A Little Imagination]
+@title[LUCA's activities]
 
 @snap[north-west h4-white]
 #### And start presenting...
