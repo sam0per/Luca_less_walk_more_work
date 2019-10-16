@@ -14,10 +14,10 @@ Less walking = more working
 @title[LUCA's activities]
 
 @snap[north-west h4-black]
-#### Luca does ...
+### Luca does ...
 @snapend
 
-@snap[east span-55]
+@snap[west span-55]
 @ul[list-spaced-bullets text-black text-09]
 - Walk
 - Work
