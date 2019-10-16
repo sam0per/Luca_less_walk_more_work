@@ -10,32 +10,17 @@ Less walking = more working
 
 ![IMAGE](assets/img/whoisluca.jpg)
 
----?color=linear-gradient(180deg, white 55%, black 45%)
-@title[LUCA is a person]
+---?color=linear-gradient(180deg, white 85%, black 15%)
+@title[LUCA's activities]
 
 @snap[north-west h4-black]
 #### Luca does ...
 @snapend
 
-@snap[west span-55]
+@snap[east span-55]
 @ul[list-spaced-bullets text-black text-09]
 - Walk
 - Work
-@ulend
-@snapend
-
----
-
-@snap[north-west h4-white]
-#### And start presenting...
-@snapend
-
-@snap[east span-55]
-@ul[list-spaced-bullets text-black text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
 @ulend
 @snapend
 
