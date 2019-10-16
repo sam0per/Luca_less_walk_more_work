@@ -13,7 +13,7 @@ Less walking = more working
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[LUCA is a person]
 
-@snap[north-west h4-white]
+@snap[north-west h4-black]
 #### Luca does ...
 @snapend
 
