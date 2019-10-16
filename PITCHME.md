@@ -1,20 +1,25 @@
-# Let's Get Started
+# LUCA in theory
+
+@snap[south span-100 text-white]
+Less walking = more working
 
 ---
 
-## Add Some Slide Candy
+## LUCA is ...
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/whoisluca.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+## Luca does ...
 @snapend
 
 @snap[east span-50]
-![IMAGE](assets/img/presentation.png)
+@ul[list-spaced-bullets text-white text-09]
+- Walk
+- Work
 @snapend
 
 @snap[south span-100 text-white]
